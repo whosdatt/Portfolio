@@ -1,6 +1,6 @@
 # Принятие решений в бизнесе
 
-**Инструменты** Python, SciPy, Matplotlib, A/B-тестирование
+**Инструменты** Python, Pandas, SciPy, Matplotlib, A/B-тестирование
 
 **Вывод**
 
